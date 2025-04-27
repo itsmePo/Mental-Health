@@ -1,7 +1,5 @@
 # SafeMind
 
-<img src="F:\Descargas\Gemini_Generated_Image_b3hv4xb3hv4xb3hv (1).png" alt="Gemini_Generated_Image_b3hv4xb3hv4xb3hv (1)" style="zoom:25%;" />
-
 ------
 
 ## 🧠 Introducción
